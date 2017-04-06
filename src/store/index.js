@@ -1,6 +1,6 @@
 import axios from 'axios'
 let api = axios.create({
-    baseURL: 'https://https://ar-ganize-2.herokuapp.com/api/',
+    baseURL: 'https://ar-ganize-2.herokuapp.com/api/',
     timeout: 200000,
     withCredentials: true
 })
